@@ -88,6 +88,6 @@ To set up and run this sentiment analysis project locally, please follow these s
     Execute the main Python script that performs the sentiment analysis and generates the visualizations.
 
     ```bash
-    python your_sentiment_analysis_script.ipyn
+    python sentiment-analysis-on-endsars-tweets.ipynb
     ```
 
